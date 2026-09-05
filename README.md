@@ -172,35 +172,13 @@ Modern responsive dark-themed developer portfolio showcasing my projects, skills
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=PasinduTheekshanaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8B5CF6&text_color=FFFFFF"
-  alt="Pasindu GitHub Stats"
-/>
-
-<br/><br/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduTheekshanaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 # 🔥 GitHub Contribution Streak
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=PasinduTheekshanaa&hide_border=true&background=0D1117&ring=00F5FF&fire=FF2E88&currStreakLabel=8B5CF6&sideLabels=FFFFFF&dates=FFFFFF"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=PasinduTheekshanaa&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
@@ -212,6 +190,12 @@ Modern responsive dark-themed developer portfolio showcasing my projects, skills
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PasinduTheekshanaa&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
+
+<br/><br/>
+
+![GitHub Followers](https://img.shields.io/github/followers/PasinduTheekshanaa?style=for-the-badge&logo=github&label=FOLLOWERS&color=00CFFF)
+
+![GitHub Stars](https://img.shields.io/github/stars/PasinduTheekshanaa?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=8B5CF6)
 
 </div>
 
